@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+botton {
+
+    border: 5px solid black;
+}
